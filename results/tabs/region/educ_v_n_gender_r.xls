@@ -1,0 +1,15 @@
+	person resolved gender from bq and qc check (derived)		
+	male	female	Total
+	No.	No.	No.
+RECODE of edu1			
+ Lower Secondary or less	367	424	791
+Upper Secondary	405	539	944
+Vocational	946	1359	2305
+Tertiary	647	1355	2002
+Total	2365	3677	6042
+
+education or training in last 12 months (trend-ials/all)			
+yes	547	945	1492
+no	1818	2733	4551
+Total	2365	3678	6043
+

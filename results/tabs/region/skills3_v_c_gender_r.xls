@@ -1,0 +1,131 @@
+	person resolved gender from bq and qc check (derived)					
+	male	male	female	female	Total	Total
+	Col %	SE	Col %	SE	Col %	SE
+skill use work - numeracy - how often - calculating costs or budgets						
+never	57.9	(1.6)	53.6	(1.5)	55.9	(1.2)
+less than once a month	10.3	(0.9)	9.7	(0.7)	10.0	(0.6)
+less than once a week but at least once a month	8.0	(0.8)	7.1	(0.8)	7.6	(0.6)
+at least once a week but not every day	7.9	(0.7)	7.2	(0.6)	7.6	(0.5)
+every day	15.9	(0.9)	22.4	(1.0)	18.8	(0.7)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - use or calculate fractions or percentage						
+never	74.9	(1.5)	69.0	(1.4)	72.3	(1.2)
+less than once a month	8.3	(0.7)	9.1	(0.8)	8.7	(0.6)
+less than once a week but at least once a month	4.4	(0.7)	4.8	(0.5)	4.6	(0.6)
+at least once a week but not every day	5.3	(0.5)	5.5	(0.5)	5.4	(0.4)
+every day	7.1	(0.7)	11.5	(0.9)	9.1	(0.6)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - use a calculator						
+never	49.8	(1.6)	36.4	(1.3)	43.8	(1.2)
+less than once a month	10.9	(0.9)	9.5	(0.9)	10.3	(0.6)
+less than once a week but at least once a month	6.5	(0.7)	7.0	(0.7)	6.8	(0.5)
+at least once a week but not every day	11.4	(0.9)	10.4	(0.8)	11.0	(0.7)
+every day	21.3	(1.1)	36.7	(1.3)	28.2	(0.9)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - prepare charts graphs or tables						
+never	76.5	(1.5)	68.7	(1.5)	73.0	(1.3)
+less than once a month	7.1	(0.7)	9.8	(0.7)	8.3	(0.5)
+less than once a week but at least once a month	6.2	(0.9)	8.0	(0.8)	7.0	(0.7)
+at least once a week but not every day	5.6	(0.7)	6.1	(0.6)	5.8	(0.5)
+every day	4.6	(0.5)	7.4	(0.7)	5.8	(0.4)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - prepare charts graphs or tables						
+never	76.5	(1.5)	68.7	(1.5)	73.0	(1.3)
+less than once a month	7.1	(0.7)	9.8	(0.7)	8.3	(0.5)
+less than once a week but at least once a month	6.2	(0.9)	8.0	(0.8)	7.0	(0.7)
+at least once a week but not every day	5.6	(0.7)	6.1	(0.6)	5.8	(0.5)
+every day	4.6	(0.5)	7.4	(0.7)	5.8	(0.4)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - use simple algebra or formulas						
+never	73.5	(1.5)	69.2	(1.5)	71.6	(1.2)
+less than once a month	7.2	(0.9)	6.5	(0.6)	6.9	(0.6)
+less than once a week but at least once a month	4.6	(0.7)	4.1	(0.5)	4.4	(0.5)
+at least once a week but not every day	5.2	(0.6)	4.6	(0.6)	4.9	(0.4)
+every day	9.5	(0.7)	15.5	(1.0)	12.2	(0.7)
+Total	100.0		100.0		100.0	
+
+skill use work - numeracy - how often - use advanced math or statistics						
+never	90.0	(1.1)	89.5	(1.0)	89.8	(0.9)
+less than once a month	4.0	(0.6)	4.1	(0.6)	4.1	(0.5)
+less than once a week but at least once a month	2.7	(0.5)	1.9	(0.5)	2.3	(0.4)
+at least once a week but not every day	1.7	(0.3)	1.9	(0.3)	1.8	(0.2)
+every day	1.6	(0.3)	2.6	(0.5)	2.0	(0.3)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - experience with computer in job						
+yes	40.6	(1.5)	57.4	(1.4)	48.1	(1.2)
+no	59.4	(1.5)	42.6	(1.4)	51.9	(1.2)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - internet - how often - for mail						
+never	18.6	(1.7)	14.8	(1.3)	16.6	(1.1)
+less than once a month	11.6	(1.7)	10.5	(1.0)	11.0	(1.1)
+less than once a week but at least once a month	9.7	(1.3)	7.9	(0.9)	8.8	(0.8)
+at least once a week but not every day	17.3	(1.6)	18.9	(1.2)	18.1	(1.0)
+every day	42.8	(2.6)	47.9	(1.7)	45.5	(1.7)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - internet - how often - work related info						
+never	12.9	(1.4)	13.6	(1.3)	13.3	(1.1)
+less than once a month	10.8	(1.5)	9.2	(0.9)	9.9	(0.9)
+less than once a week but at least once a month	9.4	(1.4)	8.7	(1.0)	9.0	(0.9)
+at least once a week but not every day	20.5	(1.4)	21.3	(1.3)	21.0	(1.0)
+every day	46.4	(2.3)	47.1	(1.7)	46.8	(1.5)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - internet - how often - conduct transactions						
+never	57.9	(2.0)	58.5	(2.0)	58.2	(1.6)
+less than once a month	11.7	(1.3)	13.4	(1.4)	12.6	(1.1)
+less than once a week but at least once a month	6.3	(0.9)	6.4	(0.9)	6.4	(0.7)
+at least once a week but not every day	9.1	(1.0)	8.0	(0.8)	8.5	(0.6)
+every day	15.0	(1.7)	13.7	(1.1)	14.3	(1.1)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - how often - spreadsheets						
+never	36.2	(2.3)	26.1	(1.5)	30.8	(1.4)
+less than once a month	13.6	(1.4)	15.8	(1.2)	14.8	(0.9)
+less than once a week but at least once a month	11.5	(1.2)	13.0	(1.4)	12.3	(1.0)
+at least once a week but not every day	15.1	(1.7)	15.1	(1.0)	15.1	(0.9)
+every day	23.6	(1.7)	30.0	(1.6)	27.0	(1.2)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - how often - word						
+never	27.0	(2.0)	16.4	(1.4)	21.3	(1.3)
+less than once a month	12.6	(1.8)	10.7	(1.1)	11.6	(0.9)
+less than once a week but at least once a month	11.2	(1.2)	10.5	(1.0)	10.8	(0.9)
+at least once a week but not every day	19.2	(1.5)	18.3	(1.3)	18.7	(1.0)
+every day	30.0	(2.0)	44.1	(1.6)	37.5	(1.3)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - how often - programming language						
+never	73.9	(1.9)	76.1	(1.9)	75.1	(1.6)
+less than once a month	5.7	(0.9)	4.7	(0.6)	5.2	(0.6)
+less than once a week but at least once a month	4.9	(0.9)	5.0	(0.8)	5.0	(0.7)
+at least once a week but not every day	4.9	(0.7)	3.6	(0.5)	4.2	(0.5)
+every day	10.6	(1.3)	10.6	(1.2)	10.6	(1.0)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - how often - real-time discussions						
+never	57.8	(2.5)	60.0	(2.0)	59.0	(1.8)
+less than once a month	10.6	(1.1)	12.5	(1.2)	11.6	(0.8)
+less than once a week but at least once a month	7.3	(1.2)	6.0	(0.8)	6.6	(0.8)
+at least once a week but not every day	7.5	(1.1)	6.9	(0.6)	7.1	(0.6)
+every day	16.8	(1.8)	14.7	(1.4)	15.7	(1.3)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - level of computer use						
+straightforward	33.9	(2.1)	33.0	(1.6)	33.4	(1.3)
+moderate	56.9	(1.9)	62.4	(1.6)	59.8	(1.3)
+complex	9.2	(1.1)	4.7	(0.6)	6.8	(0.7)
+Total	100.0		100.0		100.0	
+
+skill use work - ict - computer - got the skills needed						
+yes	90.4	(1.3)	92.8	(0.9)	91.7	(0.9)
+no	9.6	(1.3)	7.2	(0.9)	8.3	(0.9)
+Total	100.0		100.0		100.0	
+

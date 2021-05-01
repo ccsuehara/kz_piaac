@@ -1,0 +1,37 @@
+	person resolved gender from bq and qc check (derived)				
+	male	male	female	female	Total
+	Row %	SE	Row %	SE	Row %
+background - living with spouse or partner					
+yes	51.8	(0.6)	48.2	(0.6)	100.0
+no	43.0	(0.9)	57.0	(0.9)	100.0
+Total	48.7	(0.2)	51.3	(0.2)	100.0
+
+background - work situation of spouse or partner					
+full-time employed (self-employed, employee)	41.8	(1.0)	58.2	(1.0)	100.0
+part-time employed (self-employed, employee)	42.2	(3.4)	57.8	(3.4)	100.0
+unemployed	61.3	(3.6)	38.7	(3.6)	100.0
+pupil, student	84.5	(11.0)	15.5	(11.0)	100.0
+apprentice, internship	58.3	(45.2)	41.7	(45.2)	100.0
+in retirement or early retirement	45.4	(3.5)	54.6	(3.5)	100.0
+permanently disabled	69.6	(12.2)	30.4	(12.2)	100.0
+in compulsory military or community service	17.6	(14.8)	82.4	(14.8)	100.0
+fulfilling domestic tasks or looking after children/family	96.3	(1.0)	3.7	(1.0)	100.0
+other	39.4	(6.9)	60.6	(6.9)	100.0
+Total	51.8	(0.6)	48.2	(0.6)	100.0
+
+background - children					
+yes	44.5	(0.4)	55.5	(0.4)	100.0
+no	57.2	(0.8)	42.8	(0.8)	100.0
+Total	48.4	(0.0)	51.6	(0.0)	100.0
+
+background - born in country					
+yes	48.4	(0.2)	51.6	(0.2)	100.0
+no	47.4	(3.3)	52.6	(3.3)	100.0
+Total	48.3	(0.0)	51.7	(0.0)	100.0
+
+highest of mother or father's level of education (derived)					
+neither parent has attained upper secondary	47.2	(1.0)	52.8	(1.0)	100.0
+at least one parent has attained secondary and post-secondary, non-tertiary	48.6	(0.7)	51.4	(0.7)	100.0
+at least one parent has attained tertiary	49.0	(0.9)	51.0	(0.9)	100.0
+Total	48.3	(0.1)	51.7	(0.1)	100.0
+

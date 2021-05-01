@@ -1,0 +1,131 @@
+	person resolved gender from bq and qc check (derived)		
+	male	female	Total
+	No.	No.	No.
+skill use work - numeracy - how often - calculating costs or budgets			
+never	1063	1199	2262
+less than once a month	194	240	434
+less than once a week but at least once a month	138	153	291
+at least once a week but not every day	160	173	333
+every day	314	533	847
+Total	1869	2298	4167
+
+skill use work - numeracy - how often - use or calculate fractions or percentage			
+never	1395	1591	2986
+less than once a month	145	206	351
+less than once a week but at least once a month	80	109	189
+at least once a week but not every day	102	141	243
+every day	147	248	395
+Total	1869	2295	4164
+
+skill use work - numeracy - how often - use a calculator			
+never	904	819	1723
+less than once a month	201	210	411
+less than once a week but at least once a month	124	145	269
+at least once a week but not every day	216	242	458
+every day	425	883	1308
+Total	1870	2299	4169
+
+skill use work - numeracy - how often - prepare charts graphs or tables			
+never	1414	1573	2987
+less than once a month	138	241	379
+less than once a week but at least once a month	115	165	280
+at least once a week but not every day	110	143	253
+every day	94	173	267
+Total	1871	2295	4166
+
+skill use work - numeracy - how often - prepare charts graphs or tables			
+never	1414	1573	2987
+less than once a month	138	241	379
+less than once a week but at least once a month	115	165	280
+at least once a week but not every day	110	143	253
+every day	94	173	267
+Total	1871	2295	4166
+
+skill use work - numeracy - how often - use simple algebra or formulas			
+never	1354	1598	2952
+less than once a month	141	150	291
+less than once a week but at least once a month	89	93	182
+at least once a week but not every day	95	110	205
+every day	192	347	539
+Total	1871	2298	4169
+
+skill use work - numeracy - how often - use advanced math or statistics			
+never	1674	2065	3739
+less than once a month	77	92	169
+less than once a week but at least once a month	53	39	92
+at least once a week but not every day	35	44	79
+every day	31	56	87
+Total	1870	2296	4166
+
+skill use work - ict - experience with computer in job			
+yes	775	1338	2113
+no	1096	963	2059
+Total	1871	2301	4172
+
+skill use work - ict - internet - how often - for mail			
+never	145	194	339
+less than once a month	84	139	223
+less than once a week but at least once a month	70	94	164
+at least once a week but not every day	131	264	395
+every day	344	647	991
+Total	774	1338	2112
+
+skill use work - ict - internet - how often - work related info			
+never	100	172	272
+less than once a month	83	125	208
+less than once a week but at least once a month	70	106	176
+at least once a week but not every day	161	294	455
+every day	359	640	999
+Total	773	1337	2110
+
+skill use work - ict - internet - how often - conduct transactions			
+never	441	761	1202
+less than once a month	87	188	275
+less than once a week but at least once a month	53	85	138
+at least once a week but not every day	70	105	175
+every day	122	197	319
+Total	773	1336	2109
+
+skill use work - ict - computer - how often - spreadsheets			
+never	280	338	618
+less than once a month	100	218	318
+less than once a week but at least once a month	85	165	250
+at least once a week but not every day	117	206	323
+every day	192	410	602
+Total	774	1337	2111
+
+skill use work - ict - computer - how often - word			
+never	204	224	428
+less than once a month	90	140	230
+less than once a week but at least once a month	82	124	206
+at least once a week but not every day	149	258	407
+every day	249	592	841
+Total	774	1338	2112
+
+skill use work - ict - computer - how often - programming language			
+never	568	1021	1589
+less than once a month	46	63	109
+less than once a week but at least once a month	39	61	100
+at least once a week but not every day	36	53	89
+every day	85	139	224
+Total	774	1337	2111
+
+skill use work - ict - computer - how often - real-time discussions			
+never	436	785	1221
+less than once a month	91	169	260
+less than once a week but at least once a month	58	77	135
+at least once a week but not every day	58	102	160
+every day	131	205	336
+Total	774	1338	2112
+
+skill use work - ict - computer - level of computer use			
+straightforward	252	439	691
+moderate	446	834	1280
+complex	73	65	138
+Total	771	1338	2109
+
+skill use work - ict - computer - got the skills needed			
+yes	698	1235	1933
+no	72	95	167
+Total	770	1330	2100
+

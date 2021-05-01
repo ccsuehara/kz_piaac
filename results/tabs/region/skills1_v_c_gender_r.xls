@@ -1,0 +1,125 @@
+	person resolved gender from bq and qc check (derived)					
+	male	male	female	female	Total	Total
+	Col %	SE	Col %	SE	Col %	SE
+skill use work - time cooperating with co-workers						
+none of the time	11.0	(1.0)	10.5	(0.9)	10.8	(0.7)
+up to a quarter of the time	28.9	(1.2)	30.4	(1.2)	29.6	(0.9)
+up to half of the time	14.7	(1.0)	17.0	(0.8)	15.7	(0.6)
+more than half of the time	16.7	(1.1)	15.9	(1.0)	16.4	(0.8)
+all of the time	28.6	(1.5)	26.2	(1.3)	27.5	(1.2)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - sharing work-related info						
+never	20.3	(1.3)	17.9	(1.1)	19.2	(1.0)
+less than once a month	13.2	(1.1)	12.9	(0.8)	13.0	(0.7)
+less than once a week but at least once a month	8.7	(0.9)	8.0	(0.8)	8.4	(0.7)
+at least once a week but not every day	15.1	(1.2)	15.9	(1.0)	15.5	(0.9)
+every day	42.7	(1.4)	45.4	(1.3)	43.9	(1.0)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - teaching people						
+never	53.9	(1.6)	50.8	(1.4)	52.5	(1.3)
+less than once a month	14.0	(1.1)	14.3	(1.0)	14.1	(0.8)
+less than once a week but at least once a month	7.9	(0.8)	6.2	(0.7)	7.1	(0.6)
+at least once a week but not every day	7.7	(0.7)	10.2	(0.7)	8.8	(0.5)
+every day	16.5	(1.0)	18.6	(1.0)	17.4	(0.8)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - presentations						
+never	75.8	(1.4)	66.8	(1.4)	71.8	(1.2)
+less than once a month	10.3	(1.0)	14.2	(1.0)	12.1	(0.8)
+less than once a week but at least once a month	6.9	(0.7)	7.4	(0.7)	7.1	(0.6)
+at least once a week but not every day	3.5	(0.4)	5.8	(0.6)	4.6	(0.3)
+every day	3.5	(0.5)	5.8	(0.6)	4.5	(0.4)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - selling						
+never	64.4	(1.5)	59.8	(1.3)	62.4	(1.1)
+less than once a month	6.1	(0.8)	3.6	(0.5)	5.0	(0.6)
+less than once a week but at least once a month	4.0	(0.6)	3.0	(0.6)	3.5	(0.5)
+at least once a week but not every day	4.0	(0.4)	4.0	(0.5)	4.0	(0.3)
+every day	21.4	(1.2)	29.6	(1.1)	25.1	(0.9)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - advising people						
+never	46.1	(1.7)	32.5	(1.3)	40.0	(1.2)
+less than once a month	11.8	(0.9)	10.4	(0.8)	11.2	(0.7)
+less than once a week but at least once a month	6.9	(0.6)	6.5	(0.7)	6.7	(0.5)
+at least once a week but not every day	9.4	(0.7)	10.8	(0.7)	10.0	(0.5)
+every day	25.9	(1.5)	39.8	(1.4)	32.1	(1.0)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - planning own activities						
+never	24.6	(1.4)	22.8	(1.1)	23.8	(0.9)
+less than once a month	11.3	(1.1)	9.6	(0.9)	10.6	(0.9)
+less than once a week but at least once a month	7.5	(0.7)	5.9	(0.7)	6.8	(0.5)
+at least once a week but not every day	11.8	(0.8)	12.8	(0.9)	12.2	(0.6)
+every day	44.8	(1.7)	49.0	(1.6)	46.7	(1.4)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - planning others activities						
+never	62.5	(2.0)	63.9	(1.5)	63.1	(1.6)
+less than once a month	8.2	(0.9)	6.8	(0.7)	7.5	(0.7)
+less than once a week but at least once a month	5.8	(1.0)	4.8	(0.6)	5.3	(0.7)
+at least once a week but not every day	6.6	(0.7)	7.4	(0.6)	7.0	(0.5)
+every day	17.0	(1.2)	17.2	(1.0)	17.0	(0.9)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - organising own time						
+never	26.7	(1.5)	23.7	(1.2)	25.3	(1.1)
+less than once a month	8.7	(0.8)	7.9	(0.9)	8.3	(0.7)
+less than once a week but at least once a month	6.6	(0.7)	5.1	(0.6)	5.9	(0.5)
+at least once a week but not every day	11.4	(0.9)	10.7	(1.0)	11.1	(0.8)
+every day	46.6	(1.6)	52.7	(1.5)	49.4	(1.3)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - influencing people						
+never	55.8	(1.9)	45.3	(1.5)	51.1	(1.5)
+less than once a month	9.7	(1.1)	9.2	(0.8)	9.5	(0.9)
+less than once a week but at least once a month	6.7	(0.8)	5.4	(0.6)	6.1	(0.6)
+at least once a week but not every day	8.7	(0.7)	9.9	(0.8)	9.2	(0.6)
+every day	19.2	(1.2)	30.2	(1.4)	24.1	(1.0)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - negotiating with people						
+never	53.3	(1.8)	55.2	(1.5)	54.1	(1.5)
+less than once a month	9.2	(0.8)	9.6	(0.6)	9.4	(0.6)
+less than once a week but at least once a month	8.1	(0.8)	6.0	(0.7)	7.2	(0.6)
+at least once a week but not every day	10.4	(0.9)	8.6	(0.7)	9.6	(0.6)
+every day	19.0	(1.1)	20.6	(1.4)	19.7	(1.0)
+Total	100.0		100.0		100.0	
+
+skill use work - problem solving - simple problems						
+never	16.6	(1.2)	15.4	(1.0)	16.1	(0.9)
+less than once a month	18.4	(1.1)	20.2	(1.2)	19.2	(0.8)
+less than once a week but at least once a month	16.3	(1.1)	17.9	(1.2)	17.0	(0.9)
+at least once a week but not every day	19.2	(1.1)	20.0	(1.0)	19.5	(0.8)
+every day	29.5	(1.5)	26.5	(1.4)	28.2	(1.2)
+Total	100.0		100.0		100.0	
+
+skill use work - problem solving - complex problems						
+never	20.5	(1.3)	24.7	(1.3)	22.4	(1.1)
+less than once a month	28.9	(1.3)	30.3	(1.5)	29.5	(1.0)
+less than once a week but at least once a month	21.2	(1.4)	19.8	(1.1)	20.5	(1.1)
+at least once a week but not every day	17.1	(1.1)	15.2	(1.0)	16.2	(0.7)
+every day	12.4	(1.0)	10.1	(1.0)	11.4	(0.8)
+Total	100.0		100.0		100.0	
+
+skill use work - how often - using hands or fingers						
+never	35.2	(1.4)	31.2	(1.4)	33.4	(1.2)
+less than once a month	8.4	(0.7)	7.9	(0.7)	8.2	(0.5)
+less than once a week but at least once a month	7.4	(0.7)	5.5	(0.7)	6.6	(0.6)
+at least once a week but not every day	10.8	(0.9)	10.5	(0.8)	10.7	(0.7)
+every day	38.1	(1.2)	44.8	(1.5)	41.1	(1.1)
+Total	100.0		100.0		100.0	
+
+skill use work - not challenged enough						
+yes	89.6	(0.9)	90.1	(0.9)	89.8	(0.7)
+no	10.4	(0.9)	9.9	(0.9)	10.2	(0.7)
+Total	100.0		100.0		100.0	
+
+skill use work - need more training						
+yes	37.5	(1.5)	40.6	(1.5)	38.9	(1.2)
+no	62.5	(1.5)	59.4	(1.5)	61.1	(1.2)
+Total	100.0		100.0		100.0	
+

@@ -1,0 +1,57 @@
+	edu1								
+	Primary	Primary	 Lower Secondary	 Lower Secondary	Upper Secondary	Upper Secondary	Tertiary	Tertiary	Total
+	Row %	SE	Row %	SE	Row %	SE	Row %	SE	Row %
+Highest of mother or father's level of education (derived)									
+Neither parent has attained upper secondary	2.4	(0.5)	20.9	(1.3)	57.7	(1.5)	19.0	(1.3)	100.0
+At least one parent has attained secondary and post-secondary, non-tertiary	1.2	(0.3)	9.6	(0.8)	54.1	(1.2)	35.0	(1.2)	100.0
+At least one parent has attained tertiary	1.4	(0.4)	8.3	(1.0)	31.6	(1.6)	58.7	(1.6)	100.0
+Total	1.6	(0.2)	12.6	(0.7)	49.1	(0.9)	36.7	(1.0)	100.0
+
+Test language same as native language  (derived)									
+Test language not same as native language	1.5	(0.3)	12.1	(1.6)	51.4	(2.3)	35.0	(2.0)	100.0
+Test language same as native language	1.9	(0.4)	11.6	(0.8)	50.2	(1.0)	36.2	(1.1)	100.0
+Total	1.8	(0.3)	11.7	(0.8)	50.6	(1.0)	35.9	(1.1)	100.0
+
+Has learned as a child and still understands at least two languages including te									
+Monolingual or at least bilingual not including test language	1.7	(0.3)	12.0	(0.9)	49.4	(1.1)	36.9	(1.2)	100.0
+At least bilingual including test language	2.1	(0.6)	10.9	(1.2)	54.2	(1.5)	32.8	(1.7)	100.0
+Total	1.8	(0.3)	11.7	(0.8)	50.6	(1.0)	35.9	(1.1)	100.0
+
+Parents' immigration status (derived)									
+Both parents foreign-born	3.2	(1.2)	16.7	(2.4)	52.9	(2.5)	27.2	(2.5)	100.0
+One parent foreign-born	1.5	(0.6)	12.8	(1.9)	52.4	(2.6)	33.3	(2.6)	100.0
+Both parents native-born	1.5	(0.2)	12.4	(0.8)	48.2	(1.0)	37.9	(1.1)	100.0
+Total	1.7	(0.2)	12.8	(0.7)	49.0	(0.9)	36.6	(1.0)	100.0
+
+First and second generation immigrants (derived)									
+1st generation immigrants	3.5	(1.4)	19.9	(3.2)	52.7	(3.5)	23.9	(3.0)	100.0
+2nd generation immigrants	2.2	(1.6)	14.3	(3.0)	52.5	(3.8)	31.1	(3.4)	100.0
+Non 1st or 2nd generation immigrants	1.5	(0.2)	12.4	(0.8)	48.2	(1.0)	37.9	(1.1)	100.0
+Total	1.7	(0.2)	12.9	(0.8)	48.7	(1.0)	36.8	(1.0)	100.0
+
+Adults who have had paid work during the 12 months preceding the survey (derived									
+Has not had paid work during the 12 months preceding the survey	3.3	(0.6)	18.1	(1.3)	53.3	(1.4)	25.3	(1.6)	100.0
+Has had paid work during the 12 months preceding the survey	0.9	(0.2)	10.1	(0.7)	46.9	(1.1)	42.1	(1.1)	100.0
+Total	1.7	(0.3)	12.7	(0.7)	49.0	(0.9)	36.5	(1.0)	100.0
+
+Person resolved gender from BQ and QC check (derived)									
+Male	1.9	(0.4)	14.2	(0.9)	52.1	(1.4)	31.7	(1.2)	100.0
+Female	1.5	(0.3)	11.3	(0.8)	46.1	(1.0)	41.1	(1.1)	100.0
+Total	1.7	(0.3)	12.7	(0.7)	49.0	(0.9)	36.5	(1.0)	100.0
+
+age_group									
+1	4.6	(0.7)	19.7	(1.6)	51.8	(2.2)	23.9	(2.0)	100.0
+2	0.9	(0.3)	10.1	(1.0)	38.6	(1.6)	50.4	(1.8)	100.0
+3	1.2	(0.4)	11.4	(1.2)	48.3	(1.5)	39.1	(1.7)	100.0
+4	0.4	(0.2)	11.3	(1.2)	54.4	(1.9)	33.9	(1.6)	100.0
+5	1.8	(0.6)	12.5	(1.3)	58.2	(2.1)	27.5	(1.8)	100.0
+Total	1.7	(0.3)	12.7	(0.7)	49.0	(0.9)	36.5	(1.0)	100.0
+
+new_category									
+	1.7	(0.9)	15.7	(1.7)	61.1	(2.5)	21.5	(2.2)	100.0
+	0.4	(0.3)	8.3	(1.2)	55.0	(2.5)	36.3	(2.3)	100.0
+	0.3	(0.2)	10.6	(1.8)	44.2	(2.2)	44.9	(2.1)	100.0
+	0.4	(0.3)	7.5	(1.4)	41.5	(2.7)	50.6	(2.5)	100.0
+	1.2	(0.5)	8.8	(1.4)	38.1	(1.7)	52.0	(1.8)	100.0
+Total	0.8	(0.2)	9.8	(0.7)	46.8	(1.2)	42.5	(1.1)	100.0
+

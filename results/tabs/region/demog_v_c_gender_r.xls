@@ -1,0 +1,9 @@
+	person resolved gender from bq and qc check (derived)					
+	male	male	female	female	Total	Total
+	Col %	SE	Col %	SE	Col %	SE
+age_gr						
+aged 16 to 29	33.4	(0.6)	30.5	(0.4)	31.9	(0.3)
+aged 30 to 50	45.7	(0.7)	45.6	(0.6)	45.6	(0.5)
+aged 50+	20.9	(0.5)	23.9	(0.4)	22.5	(0.3)
+Total	100.0		100.0		100.0	
+

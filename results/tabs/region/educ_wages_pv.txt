@@ -1,0 +1,26 @@
+subject	educ_level	pv_val	wage	se	n	n_res
+literacy	Lower Secondary	<L3	4.288119919	0.248885592	185	.
+literacy	Lower Secondary	L3+	4.778667705	0.530411482	40	.
+literacy	Upper Secondary	<L3	4.175819698	0.203143274	231	.
+literacy	Upper Secondary	L3+	4.137143313	0.256328355	104	.
+literacy	Vocational	<L3	4.991193917	0.344963989	827	.
+literacy	Vocational	L3+	4.636671696	0.198248991	303	.
+literacy	Tertiary	<L3	6.802458009	0.603574962	665	.
+literacy	Tertiary	L3+	6.530777481	0.280304303	352	.
+numeracy	Lower Secondary	<L3	4.458132218	0.476970488	78	.
+numeracy	Lower Secondary	L3+	4.332172233	0.267928742	147	.
+numeracy	Upper Secondary	<L3	4.009987117	0.397836142	73	.
+numeracy	Upper Secondary	L3+	4.218949917	0.180119374	262	.
+numeracy	Vocational	<L3	5.509642823	0.843937187	324	.
+numeracy	Vocational	L3+	4.658950136	0.217366475	806	.
+numeracy	Tertiary	<L3	7.701316601	2.070103431	179	.
+numeracy	Tertiary	L3+	6.494601138	0.202655827	838	.
+literacy	all	<L3	5.36833228	0.257654448	1908	.
+literacy	all	L3+	5.427973894	0.182957646	800	.
+numeracy	all	<L3	5.692432527	0.652661735	654	.
+numeracy	all	L3+	5.285385617	0.128930739	2054	.
+all	Lower Secondary	all	4.377196771	0.212022078	225	.
+all	Upper Secondary	all	4.165026606	0.156699442	335	.
+all	Vocational	all	4.901216052	0.263489385	1130	.
+all	Tertiary	all	6.702723077	0.392886272	1017	.
+all	all	all	5.386211594	0.189913883	2708	.

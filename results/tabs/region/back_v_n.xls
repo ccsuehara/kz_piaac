@@ -1,0 +1,37 @@
+	geographical region - respondent (oecd tl2) (coded)																
+	KZ1	KZ10	KZ11	KZ12	KZ13	KZ14	KZ15	KZ16	KZ2	KZ3	KZ4	KZ5	KZ6	KZ7	KZ8	KZ9	Total
+	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.
+background - living with spouse or partner																	
+yes	133	122	80	105	394	111	91	244	287	176	196	413	98	155	276	268	3149
+no	114	87	44	83	329	44	72	204	297	85	116	227	70	61	120	159	2112
+Total	247	209	124	188	723	155	163	448	584	261	312	640	168	216	396	427	5261
+
+background - work situation of spouse or partner																	
+full-time employed (self-employed, employee)	92	72	47	58	272	77	58	165	175	122	115	244	85	103	157	185	2027
+part-time employed (self-employed, employee)	10	12	2	5	25	6	7	8	28	11	11	33	2	6	28	19	213
+unemployed	2	11	16	13	6	7	2	11	29	4	18	44	6	2	15	12	198
+pupil, student	2	2	1	1	2	0	1	0	1	1	0	1	0	0	0	1	13
+apprentice, internship	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	2
+in retirement or early retirement	4	4	6	6	18	5	12	17	22	18	16	19	2	11	26	15	201
+permanently disabled	0	1	1	1	4	0	0	0	0	0	0	2	0	0	3	2	14
+in compulsory military or community service	1	0	0	2	0	0	0	0	0	0	0	8	0	0	0	0	11
+fulfilling domestic tasks or looking after children/family	19	19	7	9	65	13	8	25	28	17	33	56	1	26	43	31	400
+other	3	1	0	10	2	3	3	17	4	3	3	6	2	7	4	2	70
+Total	133	122	80	105	394	111	91	244	287	176	196	413	98	155	276	268	3149
+
+background - children																	
+yes	135	170	86	127	604	140	155	384	433	211	251	513	131	178	337	378	4233
+no	130	104	55	83	193	46	61	151	253	80	96	174	65	67	100	138	1796
+Total	265	274	141	210	797	186	216	535	686	291	347	687	196	245	437	516	6029
+
+background - born in country																	
+yes	255	244	140	178	772	171	207	516	652	278	328	609	196	233	401	492	5672
+no	11	30	1	32	25	16	9	21	35	13	19	78	0	12	37	25	364
+Total	266	274	141	210	797	187	216	537	687	291	347	687	196	245	438	517	6036
+
+highest of mother or father's level of education (derived)																	
+neither parent has attained upper secondary	39	55	66	75	183	91	103	149	105	89	151	256	23	81	103	153	1722
+at least one parent has attained secondary and post-secondary, non-tertiary	82	121	58	99	412	71	76	256	279	126	130	253	92	114	160	235	2564
+at least one parent has attained tertiary	141	81	17	35	201	22	35	129	288	69	65	165	74	45	165	115	1647
+Total	262	257	141	209	796	184	214	534	672	284	346	674	189	240	428	503	5933
+

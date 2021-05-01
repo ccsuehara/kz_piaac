@@ -1,0 +1,37 @@
+	age_gr			
+	aged 16 to 29	aged 30 to 50	aged 50+	Total
+	No.	No.	No.	No.
+background - living with spouse or partner				
+yes	662	1831	657	3150
+no	934	849	329	2112
+Total	1596	2680	986	5262
+
+background - work situation of spouse or partner				
+full-time employed (self-employed, employee)	441	1267	319	2027
+part-time employed (self-employed, employee)	36	135	42	213
+unemployed	30	115	53	198
+pupil, student	12	0	1	13
+apprentice, internship	1	1	0	2
+in retirement or early retirement	0	12	189	201
+permanently disabled	2	8	4	14
+in compulsory military or community service	2	9	0	11
+fulfilling domestic tasks or looking after children/family	117	250	34	401
+other	21	34	15	70
+Total	662	1831	657	3150
+
+background - children				
+yes	635	2449	1150	4234
+no	1158	489	149	1796
+Total	1793	2938	1299	6030
+
+background - born in country				
+yes	1730	2786	1157	5673
+no	65	155	144	364
+Total	1795	2941	1301	6037
+
+highest of mother or father's level of education (derived)				
+neither parent has attained upper secondary	283	772	667	1722
+at least one parent has attained secondary and post-secondary, non-tertiary	783	1362	419	2564
+at least one parent has attained tertiary	697	767	184	1648
+Total	1763	2901	1270	5934
+

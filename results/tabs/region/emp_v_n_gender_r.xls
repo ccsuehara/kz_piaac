@@ -1,0 +1,100 @@
+	person resolved gender from bq and qc check (derived)		
+	male	female	Total
+	No.	No.	No.
+education - highest qualification - area of study			
+general programmes	442	650	1092
+teacher training and education science	106	556	662
+humanities, languages and arts	96	349	445
+social sciences, business and law	182	388	570
+science, mathematics and computing	153	235	388
+engineering, manufacturing and construction	594	265	859
+agriculture and veterinary	145	93	238
+health and welfare	58	322	380
+services	217	386	603
+Total	1993	3244	5237
+
+current status/work history - employment status (derived by capi)			
+employed	1679	1996	3675
+unemployed	95	101	196
+out of the labour force	590	1580	2170
+not known	2	1	3
+Total	2366	3678	6044
+
+current status/work history - work experience (derived by capi)			
+currently working (paid or unpaid)	1679	1996	3675
+recent work experience in last 12 months	196	308	504
+left paid work longer than 12 months ago	190	721	911
+no work experience	300	653	953
+Total	2365	3678	6043
+
+current work - economic sector			
+the private sector (for example a company)	1312	1161	2473
+the public sector (for example the local government or a state school)	346	811	1157
+a non-profit organisation (for example a charity, professional association or religious organisation)	12	13	25
+Total	1670	1985	3655
+
+current work - employee or self-employed			
+employee	1308	1675	2983
+self-employed	317	255	572
+Total	1625	1930	3555
+
+status at this job or business - four levels (trend-ials/all)			
+employee, not supervisor	1076	1403	2479
+employee, supervising fewer than 5 people	115	142	257
+employee, supervising more than 5 people	117	129	246
+self-employed or unpaid family worker	317	255	572
+Total	1625	1929	3554
+
+adults not employed at time of survey and not in education or training in 12 mon			
+employed or participated in education or training in last 12 months	1921	2390	4311
+not currently employed and did not participate in education or training in last 12 months (neet)	442	1287	1729
+Total	2363	3677	6040
+
+current work - employee or self-employed			
+employee	1308	1675	2983
+self-employed	317	255	572
+Total	1625	1930	3555
+
+current work - part of a larger organisation			
+yes	577	642	1219
+no	770	1085	1855
+Total	1347	1727	3074
+
+current work - type of contract			
+an indefinite contract	617	862	1479
+a fixed term contract	269	308	577
+a temporary employment agency contract	75	96	171
+an apprenticeship or other training scheme	88	117	205
+no contract	240	265	505
+other	16	23	39
+Total	1305	1671	2976
+
+adults who have had paid work in last 5 years (derived)			
+has not had paid work in past 5 years	392	994	1386
+has had paid work in past 5 years	1974	2680	4654
+Total	2366	3674	6040
+
+adults who have had paid work during the 12 months preceding the survey (derived			
+has not had paid work during the 12 months preceding the survey	509	1401	1910
+has had paid work during the 12 months preceding the survey	1857	2277	4134
+Total	2366	3678	6044
+
+adults who never had paid work including self-employment in past (derived)			
+has had paid work	2057	3016	5073
+has not has paid work ever	309	662	971
+Total	2366	3678	6044
+
+interaction between adults' work and education status (derived)			
+in education only	171	227	398
+in education and work	92	84	176
+in work only	1587	1912	3499
+not in education or work but has participated in education or training in last 12 months	72	167	239
+not in education or work and has not participated in education or training in last 12 months (neet)	443	1287	1730
+Total	2365	3677	6042
+
+current work - requirements - to do the job satisfactorily			
+this level is necessary	931	1178	2109
+a lower level would be sufficient	176	169	345
+a higher level would be needed	150	237	387
+Total	1257	1584	2841
+

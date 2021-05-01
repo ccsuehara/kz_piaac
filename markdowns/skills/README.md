@@ -1,0 +1,1 @@
+<img src="../graphs/reg_lit_age_groups_pv.png" alt="drawing" width="500" />

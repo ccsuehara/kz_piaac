@@ -1,0 +1,27 @@
+	person resolved gender from bq and qc check (derived)				
+	male	male	female	female	Total
+	Row %	SE	Row %	SE	Row %
+current work - learning - learning from co-workers/supervisors					
+never	57.0	(1.5)	43.0	(1.5)	100.0
+less than once a month	57.6	(2.2)	42.4	(2.2)	100.0
+less than once a week but at least once a month	57.4	(2.2)	42.6	(2.2)	100.0
+at least once a week but not every day	51.8	(3.3)	48.2	(3.3)	100.0
+every day	50.4	(2.3)	49.6	(2.3)	100.0
+Total	55.4	(0.7)	44.6	(0.7)	100.0
+
+current work - learning - learning-by-doing					
+never	59.6	(1.8)	40.4	(1.8)	100.0
+less than once a month	59.4	(1.8)	40.6	(1.8)	100.0
+less than once a week but at least once a month	57.3	(2.1)	42.7	(2.1)	100.0
+at least once a week but not every day	53.5	(2.8)	46.5	(2.8)	100.0
+every day	48.3	(2.3)	51.7	(2.3)	100.0
+Total	56.1	(0.6)	43.9	(0.6)	100.0
+
+current work - learning - keeping up to date					
+never	63.8	(1.7)	36.2	(1.7)	100.0
+less than once a month	56.7	(1.5)	43.3	(1.5)	100.0
+less than once a week but at least once a month	55.6	(2.2)	44.4	(2.2)	100.0
+at least once a week but not every day	48.8	(3.1)	51.2	(3.1)	100.0
+every day	48.1	(2.2)	51.9	(2.2)	100.0
+Total	56.2	(0.6)	43.8	(0.6)	100.0
+

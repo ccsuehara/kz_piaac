@@ -1,0 +1,37 @@
+	person resolved gender from bq and qc check (derived)		
+	male	female	Total
+	No.	No.	No.
+background - living with spouse or partner			
+yes	1353	1797	3150
+no	702	1410	2112
+Total	2055	3207	5262
+
+background - work situation of spouse or partner			
+full-time employed (self-employed, employee)	678	1349	2027
+part-time employed (self-employed, employee)	74	139	213
+unemployed	105	93	198
+pupil, student	11	2	13
+apprentice, internship	1	1	2
+in retirement or early retirement	70	131	201
+permanently disabled	6	8	14
+in compulsory military or community service	2	9	11
+fulfilling domestic tasks or looking after children/family	382	19	401
+other	24	46	70
+Total	1353	1797	3150
+
+background - children			
+yes	1441	2793	4234
+no	919	877	1796
+Total	2360	3670	6030
+
+background - born in country			
+yes	2223	3450	5673
+no	138	226	364
+Total	2361	3676	6037
+
+highest of mother or father's level of education (derived)			
+neither parent has attained upper secondary	648	1074	1722
+at least one parent has attained secondary and post-secondary, non-tertiary	1003	1561	2564
+at least one parent has attained tertiary	668	980	1648
+Total	2319	3615	5934
+

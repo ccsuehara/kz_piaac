@@ -1,0 +1,125 @@
+	person resolved gender from bq and qc check (derived)		
+	male	female	Total
+	No.	No.	No.
+skill use work - time cooperating with co-workers			
+none of the time	176	213	389
+up to a quarter of the time	467	647	1114
+up to half of the time	256	358	614
+more than half of the time	258	315	573
+all of the time	481	557	1038
+Total	1638	2090	3728
+
+skill use work - how often - sharing work-related info			
+never	373	409	782
+less than once a month	246	292	538
+less than once a week but at least once a month	163	169	332
+at least once a week but not every day	277	370	647
+every day	808	1056	1864
+Total	1867	2296	4163
+
+skill use work - how often - teaching people			
+never	988	1164	2152
+less than once a month	270	325	595
+less than once a week but at least once a month	142	140	282
+at least once a week but not every day	148	229	377
+every day	317	437	754
+Total	1865	2295	4160
+
+skill use work - how often - presentations			
+never	1410	1535	2945
+less than once a month	207	340	547
+less than once a week but at least once a month	124	157	281
+at least once a week but not every day	64	133	197
+every day	64	130	194
+Total	1869	2295	4164
+
+skill use work - how often - selling			
+never	1196	1359	2555
+less than once a month	118	86	204
+less than once a week but at least once a month	71	61	132
+at least once a week but not every day	79	92	171
+every day	406	692	1098
+Total	1870	2290	4160
+
+skill use work - how often - advising people			
+never	856	737	1593
+less than once a month	214	235	449
+less than once a week but at least once a month	130	141	271
+at least once a week but not every day	171	251	422
+every day	495	927	1422
+Total	1866	2291	4157
+
+skill use work - how often - planning own activities			
+never	454	512	966
+less than once a month	212	221	433
+less than once a week but at least once a month	136	138	274
+at least once a week but not every day	218	304	522
+every day	846	1115	1961
+Total	1866	2290	4156
+
+skill use work - how often - planning others activities			
+never	1148	1446	2594
+less than once a month	159	163	322
+less than once a week but at least once a month	98	109	207
+at least once a week but not every day	118	173	291
+every day	334	395	729
+Total	1857	2286	4143
+
+skill use work - how often - organising own time			
+never	489	543	1032
+less than once a month	161	177	338
+less than once a week but at least once a month	116	120	236
+at least once a week but not every day	202	247	449
+every day	893	1203	2096
+Total	1861	2290	4151
+
+skill use work - how often - influencing people			
+never	1017	1017	2034
+less than once a month	177	208	385
+less than once a week but at least once a month	122	119	241
+at least once a week but not every day	166	235	401
+every day	382	709	1091
+Total	1864	2288	4152
+
+skill use work - how often - negotiating with people			
+never	965	1227	2192
+less than once a month	186	225	411
+less than once a week but at least once a month	144	137	281
+at least once a week but not every day	199	201	400
+every day	372	499	871
+Total	1866	2289	4155
+
+skill use work - problem solving - simple problems			
+never	304	363	667
+less than once a month	338	458	796
+less than once a week but at least once a month	304	387	691
+at least once a week but not every day	354	456	810
+every day	555	617	1172
+Total	1855	2281	4136
+
+skill use work - problem solving - complex problems			
+never	382	566	948
+less than once a month	541	692	1233
+less than once a week but at least once a month	387	430	817
+at least once a week but not every day	318	345	663
+every day	228	244	472
+Total	1856	2277	4133
+
+skill use work - how often - using hands or fingers			
+never	644	729	1373
+less than once a month	158	189	347
+less than once a week but at least once a month	132	124	256
+at least once a week but not every day	208	237	445
+every day	728	1013	1741
+Total	1870	2292	4162
+
+skill use work - not challenged enough			
+yes	1488	1786	3274
+no	167	181	348
+Total	1655	1967	3622
+
+skill use work - need more training			
+yes	620	798	1418
+no	1048	1189	2237
+Total	1668	1987	3655
+

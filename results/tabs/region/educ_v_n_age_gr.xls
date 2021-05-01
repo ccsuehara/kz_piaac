@@ -1,0 +1,15 @@
+	age_gr			
+	aged 16 to 29	aged 30 to 50	aged 50+	Total
+	No.	No.	No.	No.
+RECODE of edu1				
+ Lower Secondary or less	321	307	163	791
+Upper Secondary	291	453	200	944
+Vocational	629	1056	620	2305
+Tertiary	554	1129	319	2002
+Total	1795	2945	1302	6042
+
+education or training in last 12 months (trend-ials/all)				
+yes	785	571	136	1492
+no	1010	2375	1166	4551
+Total	1795	2946	1302	6043
+

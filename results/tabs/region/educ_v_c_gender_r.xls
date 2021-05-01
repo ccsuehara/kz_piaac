@@ -1,0 +1,15 @@
+	person resolved gender from bq and qc check (derived)					
+	male	male	female	female	Total	Total
+	Col %	SE	Col %	SE	Col %	SE
+RECODE of edu1						
+ Lower Secondary or less	16.2	(0.9)	12.8	(0.9)	14.4	(0.8)
+Upper Secondary	17.7	(0.9)	16.0	(0.8)	16.8	(0.7)
+Vocational	39.7	(1.1)	36.3	(1.0)	38.0	(0.8)
+Tertiary	26.4	(1.1)	34.9	(1.1)	30.8	(0.8)
+Total	100.0		100.0		100.0	
+
+education or training in last 12 months (trend-ials/all)						
+yes	22.8	(1.0)	26.5	(0.9)	24.7	(0.7)
+no	77.2	(1.0)	73.5	(0.9)	75.3	(0.7)
+Total	100.0		100.0		100.0	
+

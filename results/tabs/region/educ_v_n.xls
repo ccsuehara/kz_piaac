@@ -1,0 +1,15 @@
+	geographical region - respondent (oecd tl2) (coded)																
+	KZ1	KZ10	KZ11	KZ12	KZ13	KZ14	KZ15	KZ16	KZ2	KZ3	KZ4	KZ5	KZ6	KZ7	KZ8	KZ9	Total
+	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.	No.
+RECODE of edu1																	
+ Lower Secondary or less	39	48	20	23	76	34	46	55	45	52	50	162	6	28	36	71	791
+Upper Secondary	19	42	4	31	197	33	30	84	109	27	50	107	22	53	62	74	944
+Vocational	63	109	92	120	287	76	81	262	204	125	144	205	85	83	184	184	2304
+Tertiary	146	75	27	36	237	45	59	137	329	88	103	213	83	81	156	187	2002
+Total	267	274	143	210	797	188	216	538	687	292	347	687	196	245	438	516	6041
+
+education or training in last 12 months (trend-ials/all)																	
+yes	109	86	21	56	142	42	55	110	193	93	104	172	53	68	76	111	1491
+no	158	188	122	155	655	146	161	428	494	199	243	515	143	177	362	405	4551
+Total	267	274	143	211	797	188	216	538	687	292	347	687	196	245	438	516	6042
+
