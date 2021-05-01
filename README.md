@@ -4,7 +4,7 @@
 
 ## 1. List of do files and  their purpose: 
 
-- KZ_region_refactoring.do: 
+- KZ_region_refactoring.do: Makes the results for Literacy, Numeracy and Problem Solving by regions. In particular, it creates the excel file called means_regs. 
 
 - piaac_var_creation_new_countries.do : Creates necessary variables like levels of literacy, numeracy, education, etc. 
 
